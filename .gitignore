@@ -5,3 +5,6 @@
 
 .*/
 !/.github/
+
+# Ignore all .exe files
+*.exe
